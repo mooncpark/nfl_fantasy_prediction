@@ -3,6 +3,8 @@
 
 ![alt text](https://github.com/mooncpark/nfl_fantasy_prediction/blob/main/poster.png)
 
+Click [here](https://docs.google.com/document/d/1NXc-nB46SxTuLS9GU_CiDFvoz0szuS7YYCcqL0AKtWE) for more information in our blog.
+
 ## Background & Motivation
 
 NFL Fantasy Football is a game where fans simulate being NFL general managers and create teams of real NFL players to compete against other teams by scoring fantasy points. Points are awarded based on real-time game player performance, including things like yards gained and touchdowns scored. Each week, league managers will go head to head with an opponent to see which team yields the highest total fantasy score, based on the player line ups set for the given week.
@@ -30,5 +32,24 @@ pip install nfl_data_py
 pip install snscrape
 ~~~
 
-## How to use notebooks
+## Generating performance predictions
+
+Our workflow can be executed simply by running all cells in <file_name>. We have also added the specific python functions below for step-by-step instruction.
+
+### Data Extraction & Preparation
+
+![alt text](https://github.com/mooncpark/nfl_fantasy_prediction/blob/main/processing.png)
+
+1. <reference file for given step>
+2. <reference file for given step>
+
+### Modeling
+
+1. <reference file for given step>
+2. <reference file for given step>
+
+### Visualizing Final Results
+
+1. <reference file for exporting data to overwrite existin sheet>
+2. Outputted data is stored and visualized in our [Final Dashboard MVP](https://lookerstudio.google.com/u/1/reporting/b9277c40-6df9-48d2-9cbf-346c0c52b8f3/page/iUELD)
 
