@@ -1,3 +1,4 @@
-# nfl_fantasy_prediction
+# Using ML to Predict NFL Fantasy Football Performance
+*cyeskoo, mcpark, zeisner*
 
-<TODO: add project summary & guide for navigating files uploaded to repository>
+![alt text](https://github.com/mooncpark/nfl_fantasy_prediction/poster.png)
