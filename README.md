@@ -32,7 +32,7 @@ pip install nfl_data_py
 pip install snscrape
 ~~~
 
-## Generating performance predictions
+## Generating Predictions
 
 Our workflow can be executed simply by running all cells in <file_name>. We have also added the specific python functions below for step-by-step instruction.
 
