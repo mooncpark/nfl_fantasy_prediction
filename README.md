@@ -38,7 +38,7 @@ Our workflow can be executed simply by running all cells in <file_name>. We have
 
 ### Data Extraction & Preparation
 
-![alt text](https://github.com/mooncpark/nfl_fantasy_prediction/blob/main/processing.png)
+![alt text](https://github.com/mooncpark/nfl_fantasy_prediction/blob/main/data_processing.png)
 
 1. <reference file for given step>
 2. <reference file for given step>
