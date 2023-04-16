@@ -1,0 +1,9 @@
+nfl_data_py
+pandas
+numpy
+tqdm
+sklearn
+snscrape
+nltk
+google
+googleapiclient
