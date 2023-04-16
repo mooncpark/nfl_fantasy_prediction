@@ -11,12 +11,24 @@ The goal of our project is to provide NFL fantasy football team managers with in
 
 ## Purpose
 
-This GitHub Repository provides the source code to how our workflow: 
+This GitHub repository provides the source code to how our workflow: 
 1. Extracts and processes features for model training from NFL & Twitter APIs
 2. Models and predicts player fantasy performance using supervised learning techniques
 3. Exports and visualizes data for users to draw performance insights and set their lineup optimally with the latest information
 
 ## Getting Started
 
-<what packages do we need to install / other setup requirements?>
+Our models are trained primarily on NFL data sourced from the [nfl_data_py library](https://github.com/cooperdff/nfl_data_py) & Twitter data sourced from the [snscrape scraper](https://github.com/JustAnotherArchivist/snscrape).
+
+**Installation**
+
+~~~
+pip install nfl_data_py
+~~~
+
+~~~
+pip install snscrape
+~~~
+
+## How to use notebooks
 
