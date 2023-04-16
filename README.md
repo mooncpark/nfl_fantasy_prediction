@@ -40,16 +40,16 @@ Our workflow can be executed simply by running all cells in <file_name>. We have
 
 ![alt text](https://github.com/mooncpark/nfl_fantasy_prediction/blob/main/data_processing.png)
 
-1. <reference file for given step>
-2. <reference file for given step>
+1. (reference file for given step)
+2. (reference file for given step)
 
 ### Modeling
 
-1. <reference file for given step>
-2. <reference file for given step>
+1. (reference file for given step)
+2. (reference file for given step)
 
 ### Visualizing Final Results
 
-1. <reference file for exporting data to overwrite existin sheet>
-2. Outputted data is stored and visualized in our [Final Dashboard MVP](https://lookerstudio.google.com/u/1/reporting/b9277c40-6df9-48d2-9cbf-346c0c52b8f3/page/iUELD)
+1. Use the function stored in export_data.py to take the final df our model predictions from the current runtime and overwrite the backend data used for the dashboard.
+2. Outputted data is stored and visualized in our [Final Dashboard MVP](https://lookerstudio.google.com/u/1/reporting/b9277c40-6df9-48d2-9cbf-346c0c52b8f3/page/iUELD).
 
