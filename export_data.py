@@ -24,7 +24,7 @@ def write_to_sheet(df, sheet_id, sheet_range):
 
 # The existing sheet we want to overwrite in Drive
 sheet_id = '1KMhP6fn_4prOEYs284vBESojTH0J0hPkdwNQRb2EuC8'
-sheet_range = 'project_sample_data!A2:G'
+sheet_range = 'project_data!A2:G'
 
 # Execute the overwrite with data outputted from models in df (prediction_data)
 write_to_sheet(prediction_data[['week','player','team','position','standard_points',
