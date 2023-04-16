@@ -9,6 +9,13 @@ NFL Fantasy Football is a game where fans simulate being NFL general managers an
 
 The goal of our project is to provide NFL fantasy football team managers with informative and comprehensive fantasy performance prediction data. Our MVP is a dashboard that will go beyond what other platforms offer, incorporating machine learning methods to provide weekly points projections, player categorizations, injury status, and sentiment analysis. By providing prediction data and visualizations not included in other public tools and algorithms, we believe our projections can be more accurate and give users the edge they need to win their fantasy leagues.
 
+## Purpose
+
+This GitHub Repository provides the source code to how our workflow: 
+1. Extracts and processes features for model training from NFL & Twitter APIs
+2. Models and predicts player fantasy performance using supervised learning techniques
+3. Exports and visualizes data for users to draw performance insights and set their lineup optimally with the latest information
+
 ## Getting Started
 
 <what packages do we need to install / other setup requirements?>
