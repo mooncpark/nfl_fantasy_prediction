@@ -36,13 +36,13 @@ pip install snscrape
 
 To save time, you save the following Tweet CSVs locally as the scraper can take up to 20 minutes to run for each season:
 
-* [ff_analyst_tweets_current_season_2020](https://github.com/mooncpark/nfl_fantasy_prediction/blob/main/ff_analyst_tweets_current_season_2020.csv)
-* [ff_analyst_tweets_current_season_2021](https://github.com/mooncpark/nfl_fantasy_prediction/blob/main/ff_analyst_tweets_current_season_2021.csv)
-* [ff_analyst_tweets_current_season_2022](https://github.com/mooncpark/nfl_fantasy_prediction/blob/main/ff_analyst_tweets_current_season_2022.csv)
+* [ff_analyst_tweets_current_season_2020.csv](https://github.com/mooncpark/nfl_fantasy_prediction/blob/main/ff_analyst_tweets_current_season_2020.csv)
+* [ff_analyst_tweets_current_season_2021.csv](https://github.com/mooncpark/nfl_fantasy_prediction/blob/main/ff_analyst_tweets_current_season_2021.csv)
+* [ff_analyst_tweets_current_season_2022.csv](https://github.com/mooncpark/nfl_fantasy_prediction/blob/main/ff_analyst_tweets_current_season_2022.csv)
 
 ## Generating Predictions
 
-Our workflow can be executed simply by running all cells in <file_name>. 
+Our workflow can be executed simply by running all cells in [Pipeline_Weekly_Fantasy_Football.ipynb](https://github.com/mooncpark/nfl_fantasy_prediction/blob/main/Pipeline_Weekly_Fantasy_Football.ipynb). 
 
 Running the notebook end to end will:
 
