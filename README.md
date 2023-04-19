@@ -42,26 +42,23 @@ To save time, you save the following Tweet CSVs locally as the scraper can take 
 
 ## Generating Predictions
 
-Our workflow can be executed simply by running all cells in <file_name>. We have also added the specific python functions below for step-by-step instruction.
+Our workflow can be executed simply by running all cells in <file_name>. 
 
-### Data Extraction & Preparation
+Running the notebook end to end will:
+
+1. Extract and process NFL & Tweet data
 
 ![alt text](https://github.com/mooncpark/nfl_fantasy_prediction/blob/main/data_processing.png)
 
-1. (reference file for given step)
-2. (reference file for given step)
-
-### Modeling
+2. Train models with latest available data and output predictions
 
 ![alt text](https://github.com/mooncpark/nfl_fantasy_prediction/blob/main/modeling.png)
 
-1. (reference file for given step)
-2. (reference file for given step)
+3. Overwrite the backend data connected to our dashboard.
 
-### Visualizing Final Results
+## Dashboard
 
-1. Use the function stored in [export_data.py](https://github.com/mooncpark/nfl_fantasy_prediction/blob/main/export_data.py) to take the final df our model predictions from the current runtime and overwrite the backend data used for the dashboard.
-2. Outputted data is stored and visualized in our [Final Dashboard MVP](https://lookerstudio.google.com/u/1/reporting/b9277c40-6df9-48d2-9cbf-346c0c52b8f3/page/iUELD).
+Outputted data is stored and visualized in our [Final Dashboard MVP](https://lookerstudio.google.com/u/1/reporting/b9277c40-6df9-48d2-9cbf-346c0c52b8f3/page/iUELD).
 
 ## License
 
