@@ -60,6 +60,10 @@ Running the notebook end to end will:
 
 Outputted data is stored and visualized in our [Final Dashboard MVP](https://lookerstudio.google.com/u/1/reporting/b9277c40-6df9-48d2-9cbf-346c0c52b8f3/page/iUELD).
 
+## Data Access Statement
+
+Data supporting this study are openly available to anyone. Model predictions are stored and connected via [this data source](https://lookerstudio.google.com/u/1/datasources/1a0a2e48-30dd-4ed3-b008-bad8d58bfe02)
+
 ## License
 
 * snscrape - [GNU General Public License](https://www.gnu.org/licenses/)
