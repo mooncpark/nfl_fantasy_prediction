@@ -45,6 +45,8 @@ Our workflow can be executed simply by running all cells in <file_name>. We have
 
 ### Modeling
 
+![alt text](https://github.com/mooncpark/nfl_fantasy_prediction/blob/main/modeling.png)
+
 1. (reference file for given step)
 2. (reference file for given step)
 
